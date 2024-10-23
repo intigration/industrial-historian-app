@@ -1,7 +1,6 @@
-install the python depedencies with pip install -r requirements
-run python ./create_sandbox.py
-for refreence here is the demo video.
-PI Sandbox demo.mp4
+## Install the python depedencies with pip install -r requirements
+```run python ./create_sandbox.py```
+
  
 Configuration:
 {
